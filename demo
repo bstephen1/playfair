@@ -1,0 +1,46 @@
+Script started on Sun 06 Mar 2016 02:35:25 PM EST
+[bstep1@linux2 playfair]python playfair.py 
+
+Welcome to Playfair cipher program.
+
+Enter a key: tomato
+1 -- encipher
+2 -- decipher
+3 -- encipher from file
+4 -- decipher from file
+5 -- quit
+1
+Enter a message to encipher: hide the gold in the tree stump
+Enciphered message: IDEFB DFHMK EDJAI FDYIS KZMRB L
+1 -- encipher
+2 -- decipher
+3 -- encipher from file
+4 -- decipher from file
+5 -- quit
+2
+Enter a message to decipher: idefbdfhmkedjaifdyiskzmrbl
+Deciphered message: HIDET HEGOL DINTH ETREX ESTUM P
+1 -- encipher
+2 -- decipher
+3 -- encipher from file
+4 -- decipher from file
+5 -- quit
+3
+Enciphering from "encipher.txt" to "output.txt"...
+1 -- encipher
+2 -- decipher
+3 -- encipher from file
+4 -- decipher from file
+5 -- quit
+4
+Deciphering from "decipher.txt" to "output.txt"...
+1 -- encipher
+2 -- decipher
+3 -- encipher from file
+4 -- decipher from file
+5 -- quit
+5
+[bstep1@linux2 playfair]exit
+exit
+
+Script done on Sun 06 Mar 2016 02:37:07 PM EST
